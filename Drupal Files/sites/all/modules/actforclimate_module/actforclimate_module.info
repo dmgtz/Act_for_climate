@@ -1,0 +1,5 @@
+name = actforclimate Helper
+description = This is a helper module supplied with actforclimate theme. It's purpose is to serve backend of actforclimate theme. 
+core = 7.x
+
+files[] = actforclimate_module.module

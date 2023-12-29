@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the actforclimate_config feature.
+ */
+
+include_once 'actforclimate_config.features.inc';

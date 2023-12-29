@@ -1,0 +1,12 @@
+﻿/*
+ * Put all your css customization codes here so that you can easily update version later
+ */
+ 
+
+html { 
+  background: url("/sites/all/themes/actforclimate/img/bg/arctic_glaciers.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
